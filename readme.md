@@ -1,0 +1,2 @@
+--->Assets found on three.js library
+->Commands to run the project: npm run dev
